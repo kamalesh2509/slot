@@ -34,7 +34,7 @@ Execute the program using runserver command.
     <link rel="stylesheet" href="style.css">
 </head>
 <body style="background-color: cyan  (173, 230, 221);">
-    <p>Slot Time Table - DHANUSH GR (212221040038) </p>
+    <p>Slot Time Table - kamalesh E (21222100019) </p>
 
 <table border="1">
     <tr>
