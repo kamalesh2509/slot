@@ -108,7 +108,7 @@ Execute the program using runserver command.
     </tr>
     <tr>
         <td>4.</td>
-        <td>19CS512</td>
+        <td>19CY205</td>
         <td>chem</td>
     </tr>
     
